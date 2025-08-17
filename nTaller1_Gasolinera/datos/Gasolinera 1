@@ -1,0 +1,13 @@
+tipo:Extra:25000:33.8
+tipo:Corriente:16000:44.375
+tipo:Gas Natural:8000:85.0
+tipo:Diesel:10000:0.0
+surtidor:Tomás:Extra:1.2:Corriente:0.0:Gas Natural:0.0:Diesel:0.0
+surtidor:Santiago:Extra:0.0:Corriente:0.625:Gas Natural:0.0:Diesel:0.0
+surtidor:Santiago:Extra:0.0:Corriente:0.0:Gas Natural:15.0:Diesel:85.0
+surtidor:Ricardo:Extra:0.0:Corriente:0.0:Gas Natural:0.0:Diesel:0.0
+empleado:Santiago:980000
+empleado:Ricardo:0
+empleado:Juan David:0
+empleado:Tomás:30000
+empleado:Esteban:0
